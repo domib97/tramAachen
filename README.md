@@ -10,8 +10,9 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * bessere Luftqualität und Lärmschutz
 * Infrastruktur für E-Mobilität (Ladestationen für e-auto oder e-bike)
 * euroTram verbindet die Städteregion mit Niederlande und Belgien
-* digitale Fahrkartenkontrolle bis tramAachen staatl. gefördert und kostenlos wird
+* vollständige Barrierefreiheit
+* digitale Fahrkartenkontrolle bis tramAachen staatl. gefördert und kostenfrei wird
 * wenn keine Oberleitung möglich ist: Wasserstoff-Bahn
 * 
 
-Offen für Ideen über discussions oder pull-request! 
+Offen für Ideen über discussions oder pull-request sowie Hilfe bei der Ausarbeitung dieses Projektes! 
