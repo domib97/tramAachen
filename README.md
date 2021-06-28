@@ -12,4 +12,4 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * digitale Fahrkartenkontrolle
 * 
 
-Offen für Ideen über pull-request! 
+Offen für Ideen über discussions oder pull-request! 
