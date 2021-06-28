@@ -9,6 +9,7 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * bessere Luftqualität und Lärmschutz
 * Infrastruktur für E-Mobilität (Ladestationen für e-auto oder e-bike)
 * digitale Fahrkartenkontrolle
+* voll-autonome Triebwagen
 * 
 
 Offen für Ideen über pull-request! 
