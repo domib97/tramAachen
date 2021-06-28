@@ -7,7 +7,7 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * höherer Wirkungsgrad sowie Bremsrückgewinnung
 * voll-autonome Triebwagen
 * dichtere Vernetzung der Bildungseinrichtungen sowie der Stadt an sich 
-* bessere Luftqualität und Lärmschutz
+* bessere Luftqualität und Lärmschutz um den Heilbad-Status zu behalten
 * Infrastruktur für E-Mobilität (Ladestationen für e-auto oder e-bike)
 * euroTram verbindet die Städteregion mit Niederlande und Belgien
 * vollständige Barrierefreiheit durch vorhandene Lautsprecherdurchsagen uvm.
