@@ -10,7 +10,7 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * bessere Luftqualität und Lärmschutz um den Heilbad-Status zu behalten
 * Infrastruktur für E-Mobilität (Ladestationen für e-auto oder e-bike)
 * euroTram verbindet die Städteregion mit Niederlande und Belgien
-* "regioTram" verbindet Städteregion mit Aachen
+* "regio-Tram" verbindet Städteregion mit Aachen
 * vollständige Barrierefreiheit durch vorhandene Lautsprecherdurchsagen uvm.
 * digitale Fahrkartenkontrolle bis tramAachen staatl. gefördert und kostenfrei wird
 * wenn keine Oberleitung möglich ist: Wasserstoff-Bahn
