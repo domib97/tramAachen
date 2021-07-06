@@ -17,7 +17,7 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * 
 
 Offen für Ideen über discussions oder pull-request sowie Hilfe bei der Ausarbeitung dieses Projektes! 
-
+Es ist leider so, dass verhindern einfacher ist als gestalten
 
 Eine Stadtbahn, deren Akkus durch Smart-Grid-Technologie geladen werden. Immobilien (privat, gewerblich, kommunal) an der Strecke stellen zur eigenen Wärme- und Stromversorgung auf Blockheizkraftwerke um, deren „überschüssiger“ Strom gegen Verrechnung entweder direkt die Campusbahn-Strecke oder jeweils eine nahegelegene (materialschonende) Akku-Lade- und Schnellwechselstation versorgt. Übrigens denkbar auch jeweils betrieben durch eine Versorgergenossenschaft progressiver Aachener Bürger, die das als Aachener Geldanlagemodell in Form von Anleihen nutzen können. Außerdem gab es popelige Elektro-Eisenbahnen bereits 1851. Batteriebetrieb alleine ist also alles andere als innovativ!
 Die Stadtbahn selber dient als Energiespeicher (Wind, Solar) und kann bei Bedarf einen Teil des Stromes ins Netz zurückspeisen (Straßenbeleuchtung, Ampeln, Parkleitsystem etc.)
