@@ -1,2 +1,0 @@
-Wie viel Volt?
--> Unterwerk 10.000 Volt werden für die Oberleitung in 750V transformiert.
