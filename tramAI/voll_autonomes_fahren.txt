@@ -1,3 +1,0 @@
-1. Self Driving Level 5
-2. tramAI
-3. Sonar, Lidar, Ultrasonicsensor, Lichtschranke, openCV, tensorflow, NVIDIA
