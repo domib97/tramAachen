@@ -17,4 +17,3 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * 
 
 Offen für Ideen über discussions oder pull-request sowie Hilfe bei der Ausarbeitung dieses Projektes! 
-Es ist leider so, dass verhindern einfacher ist als gestalten, deshalb .. 
