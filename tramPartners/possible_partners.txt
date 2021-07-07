@@ -23,4 +23,8 @@
 - AC-Bahn
 - Stadler Pankow
 - Initilion GmbH (batteries)
-- 
+- Wasserstoff:
+  HeiterBlick
+  Hörmann Vehicle Engineering
+  Flexiva Automation & Robotik
+- .
