@@ -1,0 +1,11 @@
+Intelligente Stromnetze (Smart-Grids) kombinieren Erzeugung, Speicherung und Verbrauch. Eine zentrale Steuerung stimmt sie optimal aufeinander ab und gleicht 
+somit Leistungsschwankungen – insbesondere durch fluktuierende erneuerbare Energien – im Netz aus. Die Vernetzung erfolgt dabei durch den Einsatz von 
+Informations- und Kommunikationstechnologien (IKT) sowie dezentral organisierter Energiemanagementsysteme zur Koordination der einzelnen Komponenten. 
+Das bedeutet, dass in einem Smart-Grid nicht nur Energie sondern auch Daten transportiert werden, sodass Netzbetreiber in kurzen Abständen Informationen 
+zur Energieproduktion und -verbrauch erhalten. Bisher hatten die Netzbetreiber weder Kontrolle noch Kenntnis, wann und wo eine dezentrale Erzeugungsanlage 
+Strom ins Netz einspeist. Wird der Anteil solcher „unkoordinierten“ Erzeuger zu hoch, steigt das Risiko von instabilen Netzzuständen.
+
+Durch intelligente Vernetzung, Lastmanagement und Nachfrageflexibilisierung können somit eine effiziente Nutzung und Integration der 
+erneuerbaren Energien sowie eine Optimierung der Netzauslastung erreicht werden.
+
+Quelle: https://www.umweltbundesamt.de/service/uba-fragen/was-ist-ein-smart-grid
