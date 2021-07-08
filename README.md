@@ -5,19 +5,19 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 
 * weniger Autos in der Innenstadt durch erhöhte Nutzung der ÖPNV (verkürzte Reisezeiten, hoher Reisekomfort)
 * --> erhöhte Lebensqualität
+* dichtere Vernetzung der Bildungseinrichtungen und Industrie sowie der Stadt an sich 
+* bessere Luftqualität und Lärmschutz um den Heilbad-Status zu behalten
+* vollständige Barrierefreiheit durch vorhandene Lautsprecherdurchsagen, Einstiegshilfen usw.
 * seit 1881 bewährte und robuste Technologie
 * besserer Wirkungsgrad bzw. Reibkoeffizient sowie hohe Umweltfreundlichkeit durch Bremsrückgewinnung
 * ["Smart-Grid-Technologie"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html) ermöglicht das Zwichenspeichern des überschüssigen grünen Stroms und ist für die Energiewende unumgänglich
 * Infrastruktur für E-Mobilität / Ladestationen für e-auto oder e-bike (z.B. Aufladung erst nachts, wenn durch Sturmböhen viel Windenergie vorhanden ist)
 * wenn keine Oberleitung möglich ist: Wasserstoff-Bahn (Möglichkeit der gasförmigen Energiespeicherung)
-* "tramLogistic" um Güterverkehr und Packetzulieferung auf der letzen Meile emmisionsfrei zu gestalten  
+* "tramLogistic" um Güterverkehr und Packetzulieferung auf der letzten Meile emmisionsfrei zu gestalten  
 * (zukünftige) voll-autonome Triebwagen von Siemens Mobility
 * digitale Fahrkartenkontrolle mit Hilfe von Blockchain-Technologie
-* dichtere Vernetzung der Bildungseinrichtungen sowie der Stadt an sich 
-* bessere Luftqualität und Lärmschutz um den Heilbad-Status zu behalten
 * euroTram verbindet Aachen mit Niederlande und Belgien
 * ["regio-Tram"](https://avv.de/de/aktuelles/neuigkeiten/das-projekt-regio-tram) verbindet Städteregion mit Aachen
-* vollständige Barrierefreiheit durch vorhandene Lautsprecherdurchsagen, Einstiegshilfen usw.
 * 
 
 Offen für Ideen über discussions oder pull-request sowie Hilfe bei der Ausarbeitung dieses Projektes! 
