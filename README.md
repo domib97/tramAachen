@@ -4,7 +4,7 @@
 Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der besten Straßenbahn-Netze Deutschlands. Nun ist die historische und high-tech Stadt nurnoch mit dem überlastetem Bus-System erreichbar, abgesehen von vier Regionalbahnhöfen. Die Nachteile und maximale Belastbarkeit dieses Systems sind auch vor der Pandemie sehr deutlich geworden und die Vorzüge einer Straßenbahn im öffentlichem Personennahverkehr sind weitreichend bekannt. Viele Initiativen sind an dem Vorhaben, dieses bessere und emissionsfreie System erneut einzuführen, gescheitert, wie zuletzt die ["campusbahn"](https://de.wikipedia.org/wiki/Campusbahn). Nun soll mit dem Projekt "tramAachen" für alle Bürger (eingeschlossen Menschen mit Behinderung) dieser Stadt wieder eine tram zur Verfügung gestellt werden. Aus dem vor kurzem an einem Bürgerentscheid gescheitertem Projekt in [Wiesbaden](https://de.wikipedia.org/wiki/Citybahn_Wiesbaden) geht hervor, dass es mehr Bedarf als eine simple altmodische Straßenbahn:
 
 * weniger Autos in der Innenstadt durch erhöhte Nutzung der ÖPNV (verkürzte Reisezeiten, hoher Reisekomfort)
-* --> erhöhte Lebensqualität
+* --> [erhöhte Lebensqualität](https://de.wikipedia.org/wiki/Stra%C3%9Fenbahn_Stra%C3%9Fburg)
 * dichtere Vernetzung der Bildungseinrichtungen und Industrie sowie der Stadt an sich 
 * bessere Luftqualität und Lärmschutz um den Heilbad-Status zu behalten
 * vollständige Barrierefreiheit durch vorhandene Lautsprecherdurchsagen, Einstiegshilfen usw.
