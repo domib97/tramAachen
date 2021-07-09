@@ -10,13 +10,13 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * vollständige Barrierefreiheit durch vorhandene Lautsprecherdurchsagen, Einstiegshilfen usw.
 * seit 1881 bewährte und robuste Technologie
 * besserer Wirkungsgrad bzw. Reibkoeffizient sowie hohe Umweltfreundlichkeit durch Bremsrückgewinnung
-* ["Smart-Grid-Technologie"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html) ermöglicht das Zwichenspeichern des überschüssigen grünen Stroms und ist für die Energiewende unumgänglich
-* Blockchain-Technologie ermöglicht autonome Steuerung des Netzes
+* ["Smart-Grid-Technologie"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html) ermöglicht das Zwichenspeichern des überschüssigen grünen Stroms im "tramGrid" und ist für die Energiewende unumgänglich
+* Blockchain-Technologie und ["smart contract"](https://ethereum.org/en/developers/docs/smart-contracts/) ermöglicht voll-autonome Steuerung des Netzes
 * Infrastruktur für E-Mobilität / Ladestationen für e-auto oder e-bike (z.B. Aufladung erst nachts, wenn durch Sturmböhen viel Windenergie vorhanden ist)
 * wenn keine Oberleitung möglich ist: Wasserstoff-Bahn (Möglichkeit der gasförmigen Energiespeicherung)
 * "tramLogistic" um Güterverkehr und Packetzulieferung auf der letzten Meile emmisionsfrei zu gestalten  
 * (zukünftige) voll-autonome Triebwagen von Siemens Mobility
-* digitale Fahrkartenkontrolle mit sicheren dezentralen Kryptowährungen
+* digitale Fahrkartenkontrolle (€ oder Kryptowährungen)
 * euroTram verbindet Aachen mit Niederlande und Belgien
 * ["regio-Tram"](https://avv.de/de/aktuelles/neuigkeiten/das-projekt-regio-tram) verbindet Städteregion mit Aachen
 * 
