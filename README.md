@@ -16,7 +16,7 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * wenn keine Oberleitung möglich ist: Wasserstoff-Bahn (Möglichkeit der gasförmigen Energiespeicherung)
 * "tramLogistic" um Güterverkehr und Packetzulieferung auf der letzten Meile emmisionsfrei zu gestalten  
 * (zukünftige) voll-autonome Triebwagen
-* digitale Fahrkartenkontrolle (€ oder Kryptowährungen)
+* Fahrkaften erhältlich in € oder dezentralen Kryptowährungen
 * euroTram verbindet Aachen mit Niederlande und Belgien
 * ["regio-Tram"](https://avv.de/de/aktuelles/neuigkeiten/das-projekt-regio-tram) verbindet Städteregion mit Aachen
 * 
