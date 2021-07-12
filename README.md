@@ -14,11 +14,11 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * Blockchain-Technologie und ["smart contract"](https://ethereum.org/en/developers/docs/smart-contracts/) ermöglicht voll-autonome Steuerung des Netzes (if this, then that in Blöcken gespeichert)
 * Infrastruktur für E-Mobilität / Ladestationen für e-auto oder e-bike (z.B. Aufladung erst nachts, wenn durch Sturmböhen viel Windenergie vorhanden ist)
 * wenn keine Oberleitung möglich ist: Wasserstoff-Bahn (Möglichkeit der gasförmigen Energiespeicherung)
-* "tramLogistic" um Güterverkehr und Packetzulieferung auf der letzten Meile emmisionsfrei zu gestalten  
+* "tramLogistic" + Lastenfahrrad um Güterverkehr und Packetzulieferung auf der letzten Meile emmisionsfrei zu gestalten  
 * (zukünftige) voll-autonome Triebwagen
 * Fahrkaften erhältlich in € oder dezentralen Kryptowährungen
 * euroTram verbindet Aachen mit Niederlande und Belgien
 * ["regio-Tram"](https://avv.de/de/aktuelles/neuigkeiten/das-projekt-regio-tram) verbindet Städteregion mit Aachen
 * 
 
-Offen für Ideen über discussions oder pull-request sowie Hilfe bei der Ausarbeitung dieses Projektes! 
+Offen für Feedback, Ideen über discussions oder pull-request sowie Hilfe bei der Ausarbeitung dieses Projektes! 
