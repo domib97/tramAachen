@@ -10,7 +10,7 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * vollständige Barrierefreiheit durch vorhandene Lautsprecherdurchsagen, Einstiegshilfen usw.
 * seit 1881 bewährte und robuste Technologie
 * besserer Wirkungsgrad bzw. Reibkoeffizient sowie hohe Umweltfreundlichkeit durch Bremsrückgewinnung
-* ["Smart-Grid-Technologie"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html) ermöglicht das Zwichenspeichern des überschüssigen grünen Stroms in den tramBatterien und ist für die Energiewende unumgänglich
+* ["Smart-Grid-Technologie"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html) ermöglicht das Zwichenspeichern des überschüssigen grünen Stroms aus Aachen in den tramBatterien und ist für die Energiewende unumgänglich
 * Blockchain-Technologie und ["smart contract"](https://ethereum.org/en/developers/docs/smart-contracts/) ermöglicht voll-autonome Steuerung des Netzes (if this, then that in Blöcken gespeichert)
 * Infrastruktur für E-Mobilität / Ladestationen für e-auto oder e-bike (z.B. Aufladung erst nachts, wenn durch Sturmböhen viel Windenergie vorhanden ist)
 * wenn keine Oberleitung möglich ist: Wasserstoff-Bahn (Möglichkeit der gasförmigen Energiespeicherung)
