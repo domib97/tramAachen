@@ -31,4 +31,5 @@
 - aachen.digital
 - transportsystemboegl.com
 - procitybahn.de
+- oia.open-innovation.com (RWTH)
 - 
