@@ -11,12 +11,12 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * seit 1881 bewährte und robuste Technologie
 * besserer Wirkungsgrad bzw. Reibkoeffizient sowie hohe Umweltfreundlichkeit durch Bremsrückgewinnung
 * ["Smart-Grid-Technologie"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html) ermöglicht das Zwichenspeichern des überschüssigen grünen Stroms aus Aachen in den tramBatterien und ist für die Energiewende unumgänglich
-* Blockchain-Technologie und ["smart contract"](https://ethereum.org/en/developers/docs/smart-contracts/) ermöglicht voll-autonome Steuerung des Netzes (if this, then that in Blöcken gespeichert)
+* Blockchain-Technologie und ["smart contracts"](https://ethereum.org/en/developers/docs/smart-contracts/) ermöglichen voll-autonome Steuerung des Netzes (if this, then that in Blöcken gespeichert)
 * Infrastruktur für E-Mobilität / Ladestationen für e-auto oder e-bike (z.B. Aufladung erst nachts, wenn durch Sturmböhen viel Windenergie vorhanden ist)
+* Park & Rail Konzept um verschiedene Verkehrsmittel zusammenzuführen
 * wenn keine Oberleitung möglich ist: Wasserstoff-Bahn (Möglichkeit der gasförmigen Energiespeicherung)
-* "tramLogistic" + Lastenfahrrad um Güterverkehr und Packetzulieferung auf der letzten Meile emmisionsfrei zu gestalten  
-* (zukünftige) voll-autonome Triebwagen
-* Fahrkaften erhältlich in € oder dezentralen Kryptowährungen
+* "tramLogistic" um [Güterverkehr](https://www.avg.info/unternehmen/presse/pressemitteilungen/meldungen/entwicklung-einer-guetertram-neues-verbundprojekt-logiktram.html) und Packetzulieferung auf der letzten Meile emmisionsfrei zu gestalten  
+* relativ einfache Umsetzung von voll-autonomen Triebwagen (Siemens Mobility)
 * euroTram verbindet Aachen mit Niederlande und Belgien
 * ["regio-Tram"](https://avv.de/de/aktuelles/neuigkeiten/das-projekt-regio-tram) verbindet Städteregion mit Aachen
 * 
