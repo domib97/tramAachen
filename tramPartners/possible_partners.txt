@@ -27,7 +27,7 @@
   HeiterBlick
   Hörmann Vehicle Engineering
   Flexiva Automation & Robotik
-- Smart-Grid-Firmen
+- sigfox.de
 - aachen.digital
 - transportsystemboegl.com
 - procitybahn.de
