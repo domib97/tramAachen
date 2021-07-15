@@ -14,7 +14,7 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * ["Smart-Grid-Technologie"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html) ermöglicht das Zwichenspeichern des überschüssigen grünen Stroms aus Aachen in den tramBatterien und ist für die Energiewende unumgänglich
 * Blockchain-Technologie und ["smart contracts"](https://ethereum.org/en/developers/docs/smart-contracts/) ermöglichen autonome Steuerung des Netzes (if this, then that in Blöcken gespeichert)
 * Infrastruktur für E-Mobilität / Ladestationen für e-auto oder e-bike (z.B. Aufladung erst nachts, wenn durch Sturmböhen viel Windenergie vorhanden ist)
-* Park & Ride Konzept damit Autos außerhalb parken und dann mit Bus & Bahn in die Innenstadt fahren können
+* Park & Ride Konzept damit Autos außerhalb parken und dann mit Bus & Bahn in die Innenstadt fahren können (ein Ticket für alles)
 * wenn keine Oberleitung möglich ist: [Wasserstoff-Bahn](https://www.erneuerbareenergien.de/politik/energiepolitik/wasserstoff-der-mobilitaet-leipzig-baut-europas-erste-wasserstoff-tram) (Möglichkeit der gasförmigen Energiespeicherung)
 * "tramLogistic" um [Güterverkehr](https://www.avg.info/unternehmen/presse/pressemitteilungen/meldungen/entwicklung-einer-guetertram-neues-verbundprojekt-logiktram.html) und Packetzulieferung auf der letzten Meile emmisionsfrei zu gestalten  
 * relativ einfache Umsetzung von voll-autonomen Triebwagen [Siemens Mobility](https://www.mobility.siemens.com/global/de/portfolio/schiene/fahrzeuge/strassenbahnen/autonome-strassenbahn.html)
