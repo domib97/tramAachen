@@ -20,6 +20,8 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 * relativ einfache Umsetzung von voll-autonomen Triebwagen [Siemens Mobility](https://www.mobility.siemens.com/global/de/portfolio/schiene/fahrzeuge/strassenbahnen/autonome-strassenbahn.html)
 * euroTram verbindet Aachen mit Niederlande und Belgien
 * ["regio-Tram"](https://avv.de/de/aktuelles/neuigkeiten/das-projekt-regio-tram) verbindet Städteregion mit Aachen
+* falls sich die Bürger der Stadt Aachen dennoch gegen die tramAachen entscheiden, ist diese Technologie in andere Städte übertragbar
 * 
 
-Offen für Feedback, Ideen über discussions oder pull-request sowie Hilfe bei der Ausarbeitung dieses Projektes! 
+Offen für Feedback und Ideen über discussions oder pull-request sowie Hilfe bei der Ausarbeitung dieses Projektes! 
+Jeder Bürger darf sich beteiligen und neue Richtungen einleiten, die demokratisch abgestimmt werden.
