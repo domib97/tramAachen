@@ -1,13 +1,15 @@
 - ASEAG / AVV
 - DB
-- 5g-industry-campus.com
+- STAWAG
+- upbus.rwth-aachen.de
+- ducktrain.io
 - RWTH
 - FH Aachen + Jülich
 - IHK
 - streetscooter
 - rockproject.eu
 - nweurope.eu
-- STAWAG
+- 5g-industry-campus.com
 - Talbot-services
 - Siemens Mobility
 - BMVI städtische Logistik
