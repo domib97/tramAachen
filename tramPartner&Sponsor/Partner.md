@@ -2,6 +2,7 @@
 - DB
 - ABB
 - STAWAG
+- eon.de
 - envelio.com
 - https://cosmotech.com/
 - upbus.rwth-aachen.de
