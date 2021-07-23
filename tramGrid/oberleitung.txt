@@ -1,2 +1,5 @@
 Wie viel Volt?
 -> Unterwerk 10.000 Volt werden für die Oberleitung in 750V transformiert.
+
+https://de.m.wikipedia.org/wiki/Stromschiene
+https://de.m.wikipedia.org/wiki/Bahnstromleitung
