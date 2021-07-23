@@ -1,0 +1,40 @@
+- ASEAG / AVV
+- DB
+- ABB
+- STAWAG
+- envelio.com
+- https://cosmotech.com/
+- upbus.rwth-aachen.de
+- ducktrain.io
+- RWTH
+- FH Aachen + Jülich
+- IHK
+- streetscooter
+- rockproject.eu
+- nweurope.eu
+- 5g-industry-campus.com
+- Talbot-services
+- Siemens Mobility
+- BMVI städtische Logistik
+- mFUND
+- Bund
+- nrw.vcd.org/der-vcd-in-nrw/aachen-dueren/
+- Bombardier Werk
+- Verbandes Nahverkehr Rheinland (NVR)
+- Vossloh-Kiepe
+- probahn-nrw.de
+- euregiobahn.de
+- STADTBAHN-jetzt!
+- AC-Bahn
+- Stadler Pankow
+- Initilion GmbH (batteries)
+- Wasserstoff:
+  HeiterBlick
+  Hörmann Vehicle Engineering
+  Flexiva Automation & Robotik
+- sigfox.de
+- aachen.digital
+- transportsystemboegl.com
+- procitybahn.de
+- oia.open-innovation.com (RWTH)
+- 
