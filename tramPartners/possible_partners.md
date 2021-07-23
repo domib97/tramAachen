@@ -3,6 +3,7 @@
 - ABB
 - STAWAG
 - envelio.com
+- https://cosmotech.com/
 - upbus.rwth-aachen.de
 - ducktrain.io
 - RWTH
