@@ -4,7 +4,8 @@
 - STAWAG
 - eon.de
 - envelio.com
-- https://cosmotech.com/
+- euregiobahn.de
+- cosmotech.com
 - upbus.rwth-aachen.de
 - ducktrain.io
 - RWTH
