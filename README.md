@@ -8,4 +8,4 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
   * **Park&Tram**: Ladestationen für e-Fahrzeuge laden nur in den wolkenlosen Stunden des Tages
   * **Prototyp**: die einzigen vier Regionalbahnhöfe in Aachen (Rothe Erde - HBF - Schanz - West) eignen sich für ein proof-of-concept dieser Stadtbahn
 * **"tramLogistic"**: damit [Güterverkehr](https://www.avg.info/unternehmen/presse/pressemitteilungen/meldungen/entwicklung-einer-guetertram-neues-verbundprojekt-logiktram.html) und Packetzulieferungen auf der [letzten Meile](https://ducktrain.io) emmisionsfrei werden
-* **"tramAI"**: relativ einfache Umsetzung von voll-autonomen Triebwagen: [Siemens Mobility](https://www.mobility.siemens.com/global/de/portfolio/schiene/fahrzeuge/strassenbahnen/autonome-strassenbahn.html)
+* **"tramAI"**: relativ einfache Umsetzung eines voll-autonomen Triebwagen: [Siemens Mobility](https://www.mobility.siemens.com/global/de/portfolio/schiene/fahrzeuge/strassenbahnen/autonome-strassenbahn.html)
