@@ -13,9 +13,9 @@ Falls sich die Bürger Aachens erneut gegen eine Stadtbahn entscheiden sollten, 
 
 
 * **"tramAachen"**: innovative Verbindung einer [Straßenbahn](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Stra%C3%9Fburg) und dessen Stromnetz mit einem ["smart-grid"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html), um die städtischen Erzeuger und Verbraucher von erneuerbaren Energien mit einem dynamischen Puffer zu verknüpfen.
-  * **"tramBattery"**: speichert den überschüssigen Strom eines Wind- und Sonnenreichen Tages innerhalb des **"tramGrid"** zwischen, sodass bei ungünstigem Wetter mehr auf Akkubetrieb gesetzt werden kann
-  * **Park&Tram**: Ladestationen für e-Fahrzeuge laden nur in den wolkenlosen Stunden des Tages
-  * **Innovation**: die Technologie lässt sich relativ einfach in bestehende Infrastruktur implementieren
-  * **Prototyp**: die vier Regionalbahnhöfe in Aachen (Rothe Erde - HBF - Schanz - West) eignen sich für ein proof-of-concept dieser Stadtbahn
+* **"tramBattery"**: speichert den überschüssigen Strom eines Wind- und Sonnenreichen Tages innerhalb des **"tramGrid"** zwischen, sodass bei ungünstigem Wetter mehr auf Akkubetrieb gesetzt werden kann
+* **Park&Tram**: Ladestationen für e-Fahrzeuge laden nur in den wolkenlosen Stunden des Tages
 * **"tramLogistic"**: damit der [Güterverkehr](https://www.avg.info/unternehmen/presse/pressemitteilungen/meldungen/entwicklung-einer-guetertram-neues-verbundprojekt-logiktram.html) und [Packetzulieferungen](https://ducktrain.io) auf der letzten Meile emmisionsfrei werden und der Transport von festen oder gasförmigen Energiespeichern ([innerhalb der EU](https://de.m.wikipedia.org/wiki/Grenz%C3%BCberschreitender_Stra%C3%9Fenbahnverkehr)) möglich wird 
 * **"tramAI"**: relativ einfache Umsetzung eines voll-autonomen Triebwagen: [Siemens Mobility](https://www.mobility.siemens.com/global/de/portfolio/schiene/fahrzeuge/strassenbahnen/autonome-strassenbahn.html)
+* **Innovation**: die Technologie lässt sich relativ einfach in bestehende Infrastruktur implementieren
+* **Prototyp**: die vier Regionalbahnhöfe in Aachen (Rothe Erde - HBF - Schanz - West) eignen sich für ein proof-of-concept dieser Stadtbahn
