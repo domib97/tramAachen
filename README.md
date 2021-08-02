@@ -1,7 +1,7 @@
 # tramAachen
 ![Image of tram](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ASEAG_1006.JPG/1200px-ASEAG_1006.JPG)
 
-Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der besten [Straßenbahn-Netze](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Aachen) Deutschlands. Nun ist diese historische und high-tech Stadt nurnoch mit dem verlustbehafteten Bus-System und all dessen Nachteilen von überfüllten (Doppel-)Gelenk-Bussen, Verspätungen durch Stau im Straßennetz, kaum vorhande Barrierefreiheit oder dem unzureichendem Komfort, erreichbar.
+Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der besten [Straßenbahn-Netze](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Aachen) Deutschlands. Nun ist diese historische und high-tech Stadt nurnoch mit dem verlustbehafteten Bus-System und all dessen Nachteilen von überfüllten (Doppel-)Gelenk-Bussen, Verspätungen durch Stau im Straßenverkehr, kaum vorhandene Barrierefreiheit oder dem unzureichendem Komfort, erreichbar.
 
 Des weiteren möchte die Stadt Aachen die Lärm- und Luftverschmutzung minimieren, um den Heilbad-Status zu behalten und die aktuellen Klimaziele einzuhalten. Jedoch fehlt für die Energiewende ein intelligentes Stromnetz in der Stadt, um alle Erzeuger und Verbraucher von erneuerbaren Energien mit einem dynamischen Zwischenspeicher zu kombinieren. 
 
@@ -17,6 +17,6 @@ Falls sich die Bürger Aachens erneut gegen eine Stadtbahn entscheiden sollten, 
 * **Park&Tram**: Ladestationen außerhalb der Stadt und an tram-Haltestellen laden die e-Fahrzeuge z.B. nur in den wolkenlosen Stunden des Tages. Dies kann mithilfe von **Blockchain** und [smart-contracts](https://ethereum.org/en/developers/docs/smart-contracts/) dezentralisiert und autonom gesteuert werden
 * **"tramLogistic"**: der Transport von [Gütern](https://www.avg.info/unternehmen/presse/pressemitteilungen/meldungen/entwicklung-einer-guetertram-neues-verbundprojekt-logiktram.html) und Packeten könnte damit auf der letzten Meile emmisionsfrei werden. Außerdem kann der Transport von [festen](https://www.dlr.de/sf/desktopdefault.aspx/tabid-8560/15527_read-44867/) oder [gasförmigen](https://www.erneuerbareenergien.de/politik/energiepolitik/wasserstoff-der-mobilitaet-leipzig-baut-europas-erste-wasserstoff-tram) Energiespeichern auch [innerhalb der EU](https://de.m.wikipedia.org/wiki/Grenz%C3%BCberschreitender_Stra%C3%9Fenbahnverkehr) bewerkstelligt werden
 * **"tramAI"**: relativ einfache Umsetzung eines voll-autonomen Triebwagen: [Siemens Mobility](https://www.mobility.siemens.com/global/de/portfolio/schiene/fahrzeuge/strassenbahnen/autonome-strassenbahn.html)
-* **Innovation&Flexibilität**: dieses "smart-city" Konzept lässt sich relativ einfach in bestehende Infrastruktur implementieren
+* **Innovation&Flexibilität**: dieses "smart-city" Konzept lässt sich relativ einfach in eine bestehende Infrastruktur implementieren
 * **Transparent**: um eine bürgernahe Entwicklung zu gewährleisten, wird das Projekt [open-source](https://github.com/readme/featured/nasa-ingenuity-helicopter)
 * **Prototyp**: die vier Regionalbahnhöfe in Aachen (Rothe Erde - HBF - Schanz - West) eignen sich für ein proof-of-concept dieser Stadtbahn
