@@ -14,6 +14,7 @@
 - streetscooter
 - rockproject.eu
 - nweurope.eu
+- trianel.com/
 - 5g-industry-campus.com
 - Talbot-services
 - Siemens Mobility
