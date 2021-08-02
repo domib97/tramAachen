@@ -1,7 +1,7 @@
 # tramAachen
 ![Image of tram](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ASEAG_1006.JPG/1200px-ASEAG_1006.JPG)
 
-Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der besten [Straßenbahn-Netze](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Aachen) Deutschlands. Nun ist diese historische und high-tech Stadt nurnoch mit dem verlustbehafteten Bus-System und all dessen Nachteilen von überfüllten (Doppel)Gelenk-Bussen, Verspätungen durch Stau im Straßennetz, kaum vorhande Barrierefreiheit oder dem unzureichendem Komfort, erreichbar.
+Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der besten [Straßenbahn-Netze](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Aachen) Deutschlands. Nun ist diese historische und high-tech Stadt nurnoch mit dem verlustbehafteten Bus-System und all dessen Nachteilen von überfüllten (Doppel-)Gelenk-Bussen, Verspätungen durch Stau im Straßennetz, kaum vorhande Barrierefreiheit oder dem unzureichendem Komfort, erreichbar.
 
 Des weiteren möchte die Stadt Aachen die Lärm- und Luftverschmutzung minimieren, um den Heilbad-Status zu behalten und die aktuellen Klimaziele einzuhalten. Jedoch fehlt für die Energiewende ein intelligentes Stromnetz in der Stadt, um alle Erzeuger und Verbraucher von erneuerbaren Energien mit einem dynamischen Zwischenspeicher zu kombinieren. 
 
