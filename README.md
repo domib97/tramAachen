@@ -3,13 +3,13 @@
 
 Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der besten [Straßenbahn-Netze](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Aachen) Deutschlands. Nun ist diese historische und high-tech Stadt nurnoch mit dem verlustbehafteten Bus-System und all dessen Nachteilen von überfüllten (Doppel)Gelenk-Bussen, Verspätungen durch Stau im Straßennetz, kaum vorhande Barrierefreiheit oder dem unzureichendem Komfort, erreichbar.
 
-Des weiteren möchte die Stadt Aachen die Lärm- und Luftverschmutzung minimieren, um den Heilbad-Status zu behalten und die aktuellen Klimaziele einzuhalten. Jedoch fehlt für die Energiewende ein intelligentes Stromnetz in der Stadt, um alle Erzeuger und Verbraucher von erneuerbaren Energien smart mit einem dynamischen Zwischenspeicher zu kombinieren. 
+Des weiteren möchte die Stadt Aachen die Lärm- und Luftverschmutzung minimieren, um den Heilbad-Status zu behalten und die aktuellen Klimaziele einzuhalten. Jedoch fehlt für die Energiewende ein intelligentes Stromnetz in der Stadt, um alle Erzeuger und Verbraucher von erneuerbaren Energien mit einem dynamischen Zwischenspeicher zu kombinieren. 
 
 Viele Initiativen sind an dem Vorhaben gescheitert, das emissionsfreie Bahn-System mit besserem Wirkungsgrad erneut in Aachen einzuführen, wie zuletzt die ["campusbahn"](https://de.wikipedia.org/wiki/Campusbahn).
 Außerdem geht aus einem erst vor kurzem an einem Bürgerentscheid gescheitertem Bahn-Projekt in [Wiesbaden](https://de.wikipedia.org/wiki/Citybahn_Wiesbaden) hervor, dass es mehr Bedarf als eine simple altmodische Straßenbahn.
 
-Das Projekt "tramAachen" soll nun diese Probleme lösen und für alle Bürger dieser Stadt wieder eine smarte, umweltfreundliche und robuste Tram mit der Funktion einer dezentralen Stadtbatterie zur Verfügung gestellt werden.
-Falls sich die Bürger Aachens erneut gegen eine Stadtbahn entscheiden sollten, ließe sich die entwickelt Technologie in EU-Städte mit schon vorhandener Bahn-Infrastruktur implementieren.
+Das Projekt "tramAachen" soll nun diese Probleme lösen und für alle Bürger dieser Stadt wieder eine smarte, umweltfreundliche und robuste Tram mit der Funktion einer dezentralen Stadtbatterie zur Verfügung stellen.
+Falls sich die Bürger Aachens erneut gegen eine Stadtbahn entscheiden sollten, ließe sich die entwickelte Technologie in EU-Städte mit schon vorhandener Bahn-Infrastruktur implementieren.
 
 
 * **"tramAachen"**: innovative Verbindung einer [Straßenbahn](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Stra%C3%9Fburg) und dessen Stromnetz mit einem ["smart-grid"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html), um die städtischen Erzeuger und Verbraucher von erneuerbaren Energien mit einem dynamischen Puffer zu verknüpfen
