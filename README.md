@@ -20,3 +20,5 @@ Falls sich die Bürger Aachens erneut gegen eine Stadtbahn entscheiden sollten, 
 * **Innovation&Flexibilität**: dieses "smart-city" Konzept lässt sich relativ einfach in eine bestehende Infrastruktur implementieren
 * **Transparent**: um eine bürgernahe Entwicklung zu gewährleisten, wird das Projekt [open-source](https://github.com/readme/featured/nasa-ingenuity-helicopter)
 * **Prototyp**: die vier Regionalbahnhöfe in Aachen (Rothe Erde - HBF - Schanz - West) eignen sich für ein proof-of-concept dieser Stadtbahn
+
+Kontakt-Email: dominik.boehm@alumni.fh-aachen.de
