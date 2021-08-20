@@ -5,17 +5,12 @@ Die Heilbad Stadt Aachen (lat. Aquae granni) hatte bis zum Jahr 1974 einer der b
 
 Der international beschlossene Umstieg von einer zentralen-fossilen zu einer dezentralen-erneuerbaren Energieerzeugung führt jedoch sektorenübergreifend zu Problemen. Was passiert an den bewölkten und windstillen Tagen mit dem Güter- und Personentransport innerhalb der Stadt? Wie kann eine Stadt durch intelligente Energieverteilung das Strom-Netz auch bei Lastspitzen stabil halten? Wie werden die benötigten dezentralen Energiespeicher integriert?
 
-Viele Aachener Initiativen sind an dem Vorhaben gescheitert, das emissionsfreie S-Bahn-System mit besserem Wirkungsgrad erneut einzuführen, wie zuletzt die ["campusbahn"](https://de.wikipedia.org/wiki/Campusbahn).
-Außerdem geht aus einem erst vor kurzem an einem Bürgerentscheid gescheitertem Bahn-Projekt in [Wiesbaden](https://de.wikipedia.org/wiki/Citybahn_Wiesbaden) hervor, dass es mehr Bedarf als eine simple altmodische Straßenbahn.
+Viele Aachener Initiativen sind an dem Vorhaben gescheitert, das S-Bahn-System mit dem deutlich besserem Wirkungsgrad erneut einzuführen, wie zuletzt die ["campusbahn"](https://de.wikipedia.org/wiki/Campusbahn).
+Außerdem geht aus einem erst vor kurzem an einem Bürgerentscheid gescheitertem Bahn-Projekt in [Wiesbaden](https://de.wikipedia.org/wiki/Citybahn_Wiesbaden) hervor, dass es mehr Bedarf als eine simple altmodische Tram.
 
-Das Projekt "tramAachen" soll nun diese branchenübergreifende Probleme angehen und eine Tram oder z.B. Oberleitungsbusse mit einem städtischem "smart-grid" integrieren. Dabei sollen die ltestellen als dezentrale Energiespeicher für  dienen.
+Das Projekt "tramAachen" soll nun diese branchenübergreifende Probleme angehen und ein städtisches "smart-grid" in ein elektrifiziertes ÖPNV-Netz wie einer S-Bahn oder eines O-Busses implementieren. Dabei dient eine Haltestelle als Energiespeicher für die lokalen Produzenten und Verbraucher (Prosumer) des grünen Stroms. Diese lokalen Speicher sind durch die dezentrale Netzstruktur miteinander verbunden. Ein e-Auto an den Park&Ride Stellen außerhalb der Stadt könnte seine Akku-Kapazität dem Netz zur Verfügung stellen. Auf Wunsch wird das e-Auto kostengünstig nur in den wolkenlosen Stunden des Tages geladen, also nur wenn ein Überschuss an Photovoltaik-Strom vorhanden ist.
 
-Kann man die Akku-Kapazität von e-Autos in großen Parkhäusern außerhalb der Stadt als städtische Energiespeicher nutzen? Wie werden auf Wunsch die e-Autos nur an den wolkenlosen Stunden des Tages aufgeladen, also nur wenn einen Überschuss an Photovoltaik-Strom vorhanden ist, um die Netzauslastung einzugrenzen? 
-
-wingend notwendige Energiewende ein intelligentes Stromnetz innerhalb der Stadt, um alle Erzeuger und Verbraucher von erneuerbaren Energien mit einem dynamischen Zwischenspeicher zu kombinieren. Wie bewegen sich Menschen an den bewölkten und windstillen Tagen fort? I 
-
-
-Falls sich die Bürger Aachens erneut gegen eine Stadtbahn entscheiden sollten, ließe sich die entwickelte Technologie in EU-Städte mit schon vorhandener Bahn-Infrastruktur implementieren.
+Diese entwickelte "smart-city" Technologie ließe sich relativ einfach in EU-Städte mit elektrifizierter ÖPNV-Infrastruktur implementieren.
 
 
 * **"tramAachen"**: innovative Verbindung einer [Straßenbahn](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Stra%C3%9Fburg) und dessen Stromnetz mit einem ["smart-grid"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html), um die städtischen Erzeuger und Verbraucher von erneuerbaren Energien mit einem Pufferspeicher zu verknüpfen
@@ -28,8 +23,6 @@ Falls sich die Bürger Aachens erneut gegen eine Stadtbahn entscheiden sollten, 
 
 * **"tramAI"**: relativ einfache Umsetzung eines voll-autonomen Triebwagen: [Siemens Mobility](https://www.mobility.siemens.com/global/de/portfolio/schiene/fahrzeuge/strassenbahnen/autonome-strassenbahn.html)
 
-
-* **Innovation&Flexibilität**: dieses "smart-city" Konzept lässt sich relativ einfach in eine bestehende Infrastruktur implementieren
 * **Transparent**: um eine bürgernahe Entwicklung zu gewährleisten, wird das Projekt [open-source](https://github.com/readme/featured/nasa-ingenuity-helicopter)
 * **Prototyp**: die vier Regionalbahnhöfe in Aachen (Rothe Erde - HBF - Schanz - West) eignen sich für ein proof-of-concept dieser Stadtbahn
 
