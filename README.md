@@ -3,19 +3,24 @@
 <table>
 	<th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ASEAG_1006.JPG/1200px-ASEAG_1006.JPG" alt="" border=1  width=750></img>
 	</th>
-  <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Aachen-Elisenbrunnen-1910.jpg/440px-Aachen-Elisenbrunnen-1910.jpg" alt="" border=1 width=900></img>
-  </th>
+	<th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Aachen-Elisenbrunnen-1910.jpg/440px-Aachen-Elisenbrunnen-1910.jpg" alt="" border=1 width=900 		</img>
+	</th>
+</table>
+	
+<h3>aktuelle Probleme & Herausforderungen:</h1>
 <table>
 	<tr>
-		<th>Month</th>
-		<th>Savings</th>
-		<th>Spending</th>
- 	</tr>
- 	<tr>
-  		<td>January</td>
-   		<td>$100</td>
-		<td>$900</td>
- 	</tr>
+		<th>Energiesektor</th>
+		<th>Verkehrssektor</th>
+	</tr>
+	<tr>
+		<td>Energiewende: zentral -> dezentral</td>
+		<td>Reduzierung des CO²-Ausstoßes</td>
+	</tr>
+	<tr>
+		<td>Energieverbaucher -> Prosumer</td>
+		<td>Individualverkehr -> hohe Skalierbarkeit</td>
+	</tr>
 </table>
 		
 
@@ -30,7 +35,7 @@ Das Projekt "tramAachen" soll nun diese branchenübergreifende Probleme angehen 
 Diese entwickelte Technologie ließe sich relativ einfach in EU-Städte mit **elektrifizierter ÖPNV-Infrastruktur** implementieren.
 
 
-* innovationsbedürfdigter Vekehrsektor + Energiesektor = "tramAachen" also die Verbindung einer [Straßenbahn](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Stra%C3%9Fburg) die das allgemeine Stadtbild verbessert und dessen Stromnetz mit einem ["smart-grid"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html), um die städtischen Erzeuger und Verbraucher von erneuerbaren Energien mit einem Pufferspeicher zu verknüpfen
+* Energiesektor + Verkehrssektor = "tramAachen" also die Verbindung einer [Straßenbahn](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Stra%C3%9Fburg) die das allgemeine Stadtbild verbessert und dessen Stromnetz mit einem ["smart-grid"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html), um die städtischen Erzeuger und Verbraucher von erneuerbaren Energien mit einem Pufferspeicher zu verknüpfen
 
 * "tramLogistic": der innerstädtische Transport von [Gütern](https://www.avg.info/unternehmen/presse/pressemitteilungen/meldungen/entwicklung-einer-guetertram-neues-verbundprojekt-logiktram.html) Waren könnte damit emmisionsfrei werden
 
