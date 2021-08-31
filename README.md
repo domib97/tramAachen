@@ -34,6 +34,7 @@ Außerdem geht aus einem erst vor kurzem an einem Bürgerentscheid gescheitertem
 Das Projekt "tramAachen" soll nun diese branchenübergreifende Probleme angehen und ein **städtisches "smart-grid"** in ein elektrifiziertes ÖPNV-Netz wie einer S-Bahn oder eines O-Busses implementieren. Dabei dient eine **Haltestelle als Energiespeicher** für die lokalen Produzenten und Verbraucher (Prosumer) des grünen Stroms. Diese lokalen Speicher sind durch die dezentrale Netzstruktur miteinander verbunden. Ein e-Auto an den Park&Ride Stellen außerhalb der Stadt könnte seine Akku-Kapazität dem Netz zur Verfügung stellen. Auf Wunsch wird das e-Auto kostengünstig nur in den wolkenlosen Stunden des Tages geladen, also nur wenn ein Überschuss an Photovoltaik-Strom vorhanden ist. Während den nächtlichen Strumböhen lädt sich die tramBattery mit dem Überschuss an Windenergie für den nächsten Tag auf.
 Diese entwickelte Technologie ließe sich relativ einfach in EU-Städte mit **elektrifizierter ÖPNV-Infrastruktur** implementieren.
 
+| Energiesektor | + | Verkehrssektor | = | tramAachen |
 
 * Energiesektor + Verkehrssektor = "tramAachen" also die Verbindung einer [Straßenbahn](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Stra%C3%9Fburg) die das allgemeine Stadtbild verbessert und dessen Stromnetz mit einem ["smart-grid"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html), um die städtischen Erzeuger und Verbraucher von erneuerbaren Energien mit einem Pufferspeicher zu verknüpfen
 
