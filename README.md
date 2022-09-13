@@ -38,7 +38,7 @@ Diese entwickelte Technologie ließe sich relativ einfach in EU-Städte mit **el
 
 * Energiesektor + Verkehrssektor = "tramAachen" also die Verbindung einer [Straßenbahn](https://de.m.wikipedia.org/wiki/Stra%C3%9Fenbahn_Stra%C3%9Fburg) die das allgemeine Stadtbild verbessert und dessen Stromnetz mit einem ["smart-grid"](https://www.eon.de/de/eonerleben/smart-grid-so-funktioniert-das-intelligente-stromnetz.html), um die städtischen Erzeuger und Verbraucher von erneuerbaren Energien mit einem Pufferspeicher zu verknüpfen
 
-* "tramLogistic": der innerstädtische Transport von [Gütern](https://www.avg.info/unternehmen/presse/pressemitteilungen/meldungen/entwicklung-einer-guetertram-neues-verbundprojekt-logiktram.html) Waren könnte damit emmisionsfrei werden
+* "tramLogistic": der innerstädtische Transport von [Gütern](https://www.avg.info/unternehmen/presse/pressemitteilungen/meldungen/entwicklung-einer-guetertram-neues-verbundprojekt-logiktram.html) Waren könnte damit emmisionsfrei transportiert werden
 
 * "tramAI": relativ einfache Umsetzung eines voll-autonomen Triebwagen: [Siemens Mobility](https://www.mobility.siemens.com/global/de/portfolio/schiene/fahrzeuge/strassenbahnen/autonome-strassenbahn.html)
 
