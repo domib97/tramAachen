@@ -19,7 +19,7 @@
 	</tr>
 	<tr>
 		<td>Energieverbaucher -> Prosumer (Produzent&Konsumer)</td>
-		<td>Individualverkehr -> hohe Skalierbarkeit</td>
+		<td>Individualverkehr -> ÖPNV (höhere Skalierbarkeit)</td>
 	</tr>
 </table>
 		
