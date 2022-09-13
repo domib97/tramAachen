@@ -18,7 +18,7 @@
 		<td>Reduzierung des CO²-Ausstoßes</td>
 	</tr>
 	<tr>
-		<td>Energieverbaucher -> [Prosumer](https://de.m.wikipedia.org/wiki/Prosumer)</td>
+		<td>Energieverbaucher -> Prosumer (Produzent&Konsumer)</td>
 		<td>Individualverkehr -> hohe Skalierbarkeit</td>
 	</tr>
 </table>
