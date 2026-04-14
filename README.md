@@ -41,7 +41,7 @@ Diese entwickelte Technologie ließe sich relativ einfach in EU-Städte mit **el
 - **[tramGrid](./tramGrid)**: Konzepte und Ressourcen zum intelligenten Stromnetz.
 - **[tramLine](./tramLine)**: Linienführung und Netzausbaupläne.
 - **[tramLogistic](./tramLogistic)**: Konzepte für den Gütertransport per Tram.
-- **[tramOS](./tramOS)**: Softwarekomponenten und Steuerung (tramAI, tramApp, etc.).
+- **[tramOS](./tramOS)**: Softwarekomponenten und Steuerung (tramAI, tramApp, [Control Layer Concept](./tramOS/control-layer.md), etc.).
 - **[tramSimulation](./tramSimulation)**: Simulationsprogramme und wissenschaftliche Grundlagen.
 - **[tramWaggon](./tramWaggon)**: Spezifikationen der Fahrzeuge und Komponenten (tramBattery, tramSolar).
 - **[tramVision](./tramVision)**: Langfristige Visionen und Ziele des Projekts.
