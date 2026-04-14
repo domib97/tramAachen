@@ -1,0 +1,8 @@
+{
+  "stops": [
+    {"name": "Elisenbrunnen", "peak_hours": ["07:30", "08:30", "16:00", "17:30"], "load_factor": 0.95},
+    {"name": "RWTH Westbahnhof", "peak_hours": ["08:00", "09:00", "14:00", "18:00"], "load_factor": 0.90},
+    {"name": "Bushof", "peak_hours": ["07:15", "08:45", "15:30", "17:00"], "load_factor": 0.88}
+  ],
+  "last_updated": "2026-04-14T10:00:00Z"
+}

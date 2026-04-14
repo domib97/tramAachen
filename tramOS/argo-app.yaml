@@ -1,0 +1,22 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: tramos-control-layer
+  namespace: argocd
+  finalizers:
+    - resources-finalizer.argocd.argoproj.io
+spec:
+  project: default
+  source:
+    repoURL: 'https://gitea.local/dom/tramAachen.git' # Placeholder for the user's repo URL
+    targetRevision: HEAD
+    path: tramAachen/tramOS/control-layer-app/k8s
+  destination:
+    server: 'https://kubernetes.default.svc'
+    namespace: tramos
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
+    syncOptions:
+      - CreateNamespace=true
